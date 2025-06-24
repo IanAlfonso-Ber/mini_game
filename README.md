@@ -34,19 +34,19 @@ This game was built as part of my learning journey in app development, focusing 
 ## 📸 Screenshots
 
 **Level 1 Gameplay**  
-![Level 1](./level1_screen.png)
+![Level 1](./level1_screen.png.jpg)
 
 **Level 2 Gameplay**  
-![Level 2](./level2_screen.png)
+![Level 2](./level2_screen.png.jpg)
 
 **Level 3 Gameplay**  
-![Level 3](./level3_screen.png)
+![Level 3](./level3_screen.png.jpg)
 
 **Congratulations Screen**  
-![Congrats](./congrats_screen.png)
+![Congrats](./congrats_screen.png.jpg)
 
 **Game Over Screen**  
-![Game Over](./game_over_screen.png)
+![Game Over](./game_over_screen.png.jpg)
 
 > 📝 Make sure these image files are uploaded with these exact names to display correctly.
 
